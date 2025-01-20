@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Flutter,MEAN**
+- 💬 Ask me about **Flutter,MEAN STACK**
 
 - 📫 How to reach me **abirghribi@outlook.com**
 
